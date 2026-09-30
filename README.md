@@ -1,6 +1,6 @@
 # Calibrating Expected Goals
 
-**Brian Simiyu**, Founder, Dribble (dribble360.com) — October 2026. Working paper.
+**Brian Simiyu**, Founder, Dribble (dribble360.com): October 2026. Working paper.
 
 An out-of-sample test of xG-based match probabilities against Pinnacle closing lines.
 
@@ -28,12 +28,12 @@ Both models are well calibrated, the goals-based Dixon-Coles model is marginally
 
 ## Contents
 
-- `manuscript.md` — full working paper.
-- `results/Calibrating_Expected_Goals_Simiyu_2026.pdf` — paper PDF.
-- `results/RESULTS.md` — detailed results with tables.
-- `results/evaluation.json` — all computed metrics.
-- `results/figure1_calibration.png`, `results/figure2_backtest.png` — figures.
-- `scripts/` — pipeline: data pull, join/validation, dataset build, model fitting, evaluation, PDF rendering.
+- `manuscript.md`: full working paper.
+- `results/Calibrating_Expected_Goals_Simiyu_2026.pdf`: paper PDF.
+- `results/RESULTS.md`: detailed results with tables.
+- `results/evaluation.json`: all computed metrics.
+- `results/figure1_calibration.png`, `results/figure2_backtest.png`: figures.
+- `scripts/`: pipeline: data pull, join/validation, dataset build, model fitting, evaluation, PDF rendering.
 
 ## Reproducing
 
